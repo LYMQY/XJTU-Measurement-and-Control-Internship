@@ -1,3 +1,4 @@
+// åŒ…è£…æœº
 #include <windows.h>
 #include <iostream>
 #include <conio.h>
@@ -84,7 +85,7 @@ void main()
 	
 
 
-	// ³õÊ¼»¯WinIO 
+	// ï¿½ï¿½Ê¼ï¿½ï¿½WinIO 
 	
 	if (!InitializeWinIo())
 	{
@@ -93,7 +94,7 @@ void main()
 	}
 
 
-	//Êý×ÖÁ¿ÊäÈë
+	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 	
 
@@ -114,7 +115,7 @@ void main()
 		}
 		Sleep(100);
   		system("cls");
-  		cout<<"°´PÍË³ö"<<endl;
+  		cout<<"ï¿½ï¿½Pï¿½Ë³ï¿½"<<endl;
 	}
- 	//¹Ø±ÕWinIO							
+ 	//ï¿½Ø±ï¿½WinIO							
 }

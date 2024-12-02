@@ -1,3 +1,4 @@
+// ç”µæ¢¯
 #include <windows.h>
 #include <iostream>
 #include <conio.h>
@@ -210,8 +211,8 @@ void open(int flag)
 void main(void)
 {
 
-	cout<<"°´PÍË³ö"<<endl;
-// ³õÊ¼»¯WinIO 
+	cout<<"ï¿½ï¿½Pï¿½Ë³ï¿½"<<endl;
+// ï¿½ï¿½Ê¼ï¿½ï¿½WinIO 
 	
 	if (!InitializeWinIo())
 	{
@@ -220,7 +221,7 @@ void main(void)
 	}
 
 
-//Êý×ÖÁ¿ÊäÈë
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 
 	int DI_data,temp=1;
@@ -244,5 +245,5 @@ void main(void)
 			{exit(0);
 			ShutdownWinIo();}
 		}
-    }		//¹Ø±ÕWinIO							
+    }		//ï¿½Ø±ï¿½WinIO							
 }
